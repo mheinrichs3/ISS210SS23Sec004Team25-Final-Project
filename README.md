@@ -1,5 +1,4 @@
 # ISS210FinalTemplate
-Be sure to replace the following with your substitions.
 ISSFront: https://fresnoeoc.org/fresno-eoc-stands-against-police-brutality/
 SJImage1: https://eji.org/news/native-americans-killed-by-police-at-highest-rate-in-country/
 SJImage2: Youtube Video Cover
