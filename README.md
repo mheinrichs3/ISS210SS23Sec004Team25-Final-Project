@@ -2,11 +2,16 @@
 This is a template for the ISS210's final webstie on social justice (not required for students to use).
 You should use this file to drop citations for all the images, articles, etc. that you use. 
 Be sure to replace the following with your substitions.
-ISSFront: https://www.every.org/racial-justice
-SJImage1: https://www.pinterest.ca/pin/408772103654309571/
-SJImage2: Youtube
-SJImage3: https://bloody-disgusting.com/editorials/3601617/evolution-undead-brief-history-zombies-horror/
-SJImage4: https://stock.adobe.com/search?k=economic+justice 
-SJImage5: https://www.jamesgmartin.center/2018/08/social-justice-is-overrunning-the-university-of-texas/
-SJImage6: https://www.facebook.com/groups/1016906918423966/ 
-Zombies in Revolt: The Violent Revolution of American Cinematic Monsters; DOI: 10.15291/sic/2.4.lc.2 
+ISSFront: https://fresnoeoc.org/fresno-eoc-stands-against-police-brutality/
+SJImage1: https://eji.org/news/native-americans-killed-by-police-at-highest-rate-in-country/
+SJImage2: Youtube Video Cover
+SJImage3: https://abcnews.go.com/US/black-police-officers-discuss-experience-protests/story?id=71239214
+SJImage4: https://www.nbcnews.com/news/asian-america/almost-11000-hate-incidents-targeted-asian-americans-pacific-islanders-rcna19592
+SJImage5: https://fordlawokc.com/dont-talk-latino-victims-police-brutality/
+SJImage6: https://morningconsult.com/2021/04/19/black-lives-matter-protest-police-polling/
+Native Lives: https://policeviolencereport.org
+Youtube: https://www.youtube.com/watch?v=ICG8z3CPlHs
+PDF: https://www.law.berkeley.edu/wp-content/uploads/2018/03/Paper-Obasogie.pdf
+Asian Americans: https://drexel.edu/dornsife/news/latest-news/2022/October/study-pacific-islanders-face-high-risk-of-being-killed-by-police/
+Hispanics/Latino: https://www.route-fifty.com/public-safety/2020/12/how-police-can-better-navigate-cultural-differences/171099/
+People of Color: https://news.harvard.edu/gazette/story/2021/02/solving-racial-disparities-in-policing/
