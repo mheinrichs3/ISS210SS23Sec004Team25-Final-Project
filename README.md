@@ -1,6 +1,4 @@
 # ISS210FinalTemplate
-This is a template for the ISS210's final webstie on social justice (not required for students to use).
-You should use this file to drop citations for all the images, articles, etc. that you use. 
 Be sure to replace the following with your substitions.
 ISSFront: https://fresnoeoc.org/fresno-eoc-stands-against-police-brutality/
 SJImage1: https://eji.org/news/native-americans-killed-by-police-at-highest-rate-in-country/
